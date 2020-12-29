@@ -1,0 +1,25 @@
+{
+    "user1" : {
+       "name" : "mahesh",
+       "active" : "true",
+       "id": 1
+    },
+    
+    "user2" : {
+       "name" : "suresh",
+       "active" : "true",
+       "id": 2
+    },
+    
+    "user3" : {
+       "name" : "ramesh",
+       "active" : "true",
+       "id": 3
+    },
+
+    "user4" : {
+        "name" : "Abhi",
+        "active" : "true",
+        "id": 4
+     }
+ }
